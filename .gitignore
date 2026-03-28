@@ -1,9 +1,12 @@
 # Ignore CMake build directory
-/build
+build
 
 # Ignore visual studio files
-/.vs
-/CMakeSettings.json
+.vs
+CMakeSettings.json
 
 # Ignore output directory
-/out
+out
+
+# Ignore JetBrains directory
+.idea
