@@ -1,1 +1,9 @@
-/build/
+# Ignore CMake build directory
+/build
+
+# Ignore visual studio files
+/.vs
+/CMakeSettings.json
+
+# Ignore output directory
+/out

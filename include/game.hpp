@@ -33,7 +33,7 @@ struct GameContext
     }
 };
 
-const fs::path ASSETS_DIR = fs::path("..") / fs::path("assets");
+const fs::path ASSETS_DIR = fs::path("assets");
 
 class Game
 {
